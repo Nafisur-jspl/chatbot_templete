@@ -12,8 +12,3 @@ def get_info(entity):
     results = []
     response_message = "This is my default reply...."
     return format_results(response_message,results)
-
-def get_locations(entity):
-    results = []
-    response_message = "This is my default reply...."
-    return format_results(response_message,results)
