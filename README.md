@@ -1,11 +1,15 @@
-# webbot
+# ChatBot template
 
-A bot that answers about your website
-
-This is a prototype version that has minimal Knowledge on products, services and location of the company.
+A Basic chatbot template, with basic constructs to build chatbot using API.ai
 
 ## Motivation
 
-Bots are the new apps. Instead of exploring an entire site think of a chatbot that can fetch required information for you
+To make the bot building process easy
+
+## Contents
+
+1. Client Application
+2. Bot Server
+3. Actions
 
 
